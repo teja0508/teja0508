@@ -10,5 +10,5 @@ I am A Data Sciene Enthusiast & Machine Learning Developer , who loves to work o
 By using a wide-range of sources Available from Kaggle and other data-sharing platforms , to make some accessible models , by Applying appropriate analytical skills and algorithms.<br />
  📫Connect me here:<br />
 
- [Linkdin](https://www.linkedin.com/in/chandratejareddy/)
+ [Linkdin](https://www.linkedin.com/in/chandratejareddy/)<br />
  [Medium](https://medium.com/@lchandratejareddy) 
