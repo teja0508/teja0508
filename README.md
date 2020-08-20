@@ -17,9 +17,9 @@
 - 👨🏽‍💻 I’m currently a NLP Task-Force Team at [Devopedia](https://devopedia.org/);
 - 💼 I’m currently pursuing my Post-Graduation Programme in DataScience at [INSOFE](https://www.insofe.edu.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies and I'm a big fan of PSPK <img src="https://www.pngfind.com/mpng/wRxJo_pavan-kalyan-png-photos-pawan-kalyan-png-hd/" width=15 height=15>
+- 🎬 I love watching movies and I'm a big fan of PSPK😎🤘🏻
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kishanlal0725@gmail.com to reach me;
+- 📫 Please email via lchandratejareddy@gmail.com to reach me;
 <br/> 
 </em>
 
@@ -48,8 +48,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <a href = "https://github.com/kishan0725">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  <a href = "https://github.com/teja0508">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=teja0508&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
@@ -57,24 +57,24 @@
 
 <p align="center">
 <a href = "https://github.com/kishan0725">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=teja0508&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/kishan0725/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](https://www.instagram.com/kishan_07_25) [![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishan0725)](https://twitter.com/kishan0725) [![Quora Badge](https://img.shields.io/badge/-@Kishan--175-b92b27?style=flat-circle&labelColor=b92b27&logo=quora&logoColor=white&link=https://www.quora.com/profile/Kishan-175)](https://www.quora.com/profile/Kishan-175) [![GitHub Badge](https://img.shields.io/badge/-@kishan0725-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/kishan0725) [![Gmail Badge](https://img.shields.io/badge/-@kishanlal0725-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kishan0725@gmail.com)](mailto:kishan0725@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Chandrateja%20Reddy-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandratejareddy/)](https://www.linkedin.com/in/chandratejareddy/) [![Instagram Badge](https://img.shields.io/badge/-@chandra_reddy-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/chandra_bullet_reddy)](https://www.instagram.com/chandra_bullet_reddy) [![Twitter Badge](https://img.shields.io/badge/-@teja05081-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/teja05081)](https://twitter.com/teja05081) [![Quora Badge](https://img.shields.io/badge/-@Chandra-b92b27?style=flat-circle&labelColor=b92b27&logo=quora&logoColor=white&link=https://www.quora.com/profile/Lattupally-Chandra-Teja-Reddy)](https://www.quora.com/profile/Lattupally-Chandra-Teja-Reddy) [![GitHub Badge](https://img.shields.io/badge/-@teja0508-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/teja0508)](https://github.com/teja0508) [![Gmail Badge](https://img.shields.io/badge/-@chandra-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:lchandratejareddy@gmail.com)](mailto:lchandratejareddy@gmail.com)
 
 ### Top repositories
 
 <p align="center">
-  <a href = "https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href = "https://github.com/teja0508/Face-Emotion-Detector">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Face-Emotion-Detector&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kishan0725/The-Movie-Cinema">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href="https://github.com/kishan0725/Finding-Abbrevations-Using-Regx">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Finding-Abbrevations-Using-Regx&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
   </p>
