@@ -1,4 +1,4 @@
-## Hi there, I'm [Chandrateja Reddy]! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/teja0508?style=social)
+## Hi there, I'm [Chandrateja Reddy](https://master.d2w6px0fdt0my3.amplifyapp.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/teja0508?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=teja0508&style=flat-square)
 
