@@ -92,3 +92,10 @@
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
 </p>
+
+
+<p align="center">
+  <a href = "https://github.com/teja0508/Parking_Spot_detection">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Parking_Spot_detection&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
+</p>
