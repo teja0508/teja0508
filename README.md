@@ -68,14 +68,27 @@
 
 ### Top repositories
 
+
 <p align="center">
-  <a href = "https://github.com/teja0508/Face-Emotion-Detector">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Face-Emotion-Detector&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href = "https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=COVID-19-Detection-Based-On-Human-ChestXray&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kishan0725/Finding-Abbrevations-Using-Regx">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Finding-Abbrevations-Using-Regx&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <a href="https://github.com/teja0508/API-Movie-recommender-systems">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=API-Movie-recommender-systems&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
   </p>
+
+<p align="center">
+  <a href="https://github.com/teja0508/Face-Recognition-Attendance-System">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=https://github.com/teja0508/Face-Recognition-Attendance-System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
+  </p>
+  
+ <p align="center">
+  <a href = "https://github.com/teja0508/Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Lock-Unlock-Laptop-PC-Screen-Using-Face-Recognition&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
+</p>
