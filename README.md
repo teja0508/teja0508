@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/teja0508/Face-Recognition-Attendance-System">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=https://github.com/teja0508/Face-Recognition-Attendance-System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=teja0508&repo=Face-Recognition-Attendance-System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
   </p>
   
