@@ -14,7 +14,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a NLP Task-Force Team at [Devopedia](https://devopedia.org/);
+- 👨🏽‍💻 I’m currently working as a Data Science Team & SDE at [EagleGenomics](https://www.eaglegenomics.com/);
+- 👨🏽‍💻 I also worked as part of a NLP Task-Force Team at [Devopedia](https://devopedia.org/);
 - 💼 I’m currently pursuing my Post-Graduation Programme in DataScience at [INSOFE](https://www.insofe.edu.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of PSPK😎🤘🏻
