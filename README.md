@@ -14,13 +14,22 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a Data Science Team & SDE at [EagleGenomics](https://www.eaglegenomics.com/);
-- 👨🏽‍💻 I also worked as part of a NLP Task-Force Team at [Devopedia](https://devopedia.org/);
-- 💼 I’m currently pursuing my Post-Graduation Programme in DataScience at [INSOFE](https://www.insofe.edu.in/);
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies and I'm a big fan of PSPK😎🤘🏻
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via lchandratejareddy@gmail.com to reach me;
+- I’m currently working as a Sr.Machine Learning Engineer at [Adutitoria.AI](https://www.auditoria.ai/);
+- I’m a MACHINE LEARNING ENGINEER with huge experience in building successful models across the domains, Vigorous exposure on Finance Back Office Domain, ‘Cattle field through Computer Vision’ , ‘Microbiome field’ through ML, NLP & Analytics.
+- ‘Professional Domain expertise in Finance Back Office Domain, Livestock, Healthcare data’ & ‘Profiteering Freelancing Domain Expertise in Retail, E-commerce, Banking domains’
+Knacked expertise in Data Engineering field for several projects using Cloud technologies.
+- Contribution in mentorship for helper in same network.
+- Accumulated Research articles and shared to the community who have the learning appetite- journal preparation.
+- Knowledge transfer through video digital platform like YouTube & solution driven debate sessions across Data community through communications channelled apps & collaboration in multidimension space.
+Scribbled my thoughts in Medium Blogs.
+- Prolific at specific areas such as Stats probabilities, Machine learning models, Deep Learning models, Azure cloud, GCP, NLP, Python, Flask, GitHub, Web applications, Heroku, Optimization techniques, logics decoding, Hidden insights decoding.
+- Programming- python(low to high level), optimised way of coding using data structures & algorithms.
+- Investments trading & more equipped in handling multiple challenges.
+- Kaggle holder, analytics problem solver- revolutionize within the tendency technologies
+- gate-35 marks.
+
+- Key areas in data science : Statistical Analysis & Modelling , Clustering analysis, Data pre-processing & Visualization, Regularization Techniques, Feature Engineering, Recommendation engines, Fine tuning for best parameters, Artificial, Convolution & Recurrent Neural Networks, Auto encoders, Restrict Boltzmann machine, Image Processing, Augmentation & Segmentation, Text Analytics, Regular expressions, Data Mining, Notations, Web development, Data Base Management System, Theory of Computation(Automate Compiler Design), Computer Networks.
+- Please email via lchandratejareddy@gmail.com to reach me;
 <br/> 
 </em>
 
